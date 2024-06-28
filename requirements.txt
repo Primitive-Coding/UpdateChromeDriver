@@ -1,0 +1,5 @@
+bs4
+requests
+wget
+webdriver_manager
+selenium
